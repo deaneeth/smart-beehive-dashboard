@@ -1,6 +1,6 @@
 # 🐝 Smart Beehive Management Dashboard
 
-> 🖥️ Real-time web interface for monitoring beehive data collected by the [Smart-Beehive-Monitor](https://github.com/deaneeth/Smart-Beehive-Monitor) for data collection
+> 🖥️ Real-time web interface for monitoring beehive data collected by the [Smart-Beehive-Monitor](https://github.com/deaneeth/smart-beehive-monitor) for data collection
 
 <p align="center">
   <img src="assets/dashboard-preview.png" alt="Dashboard Preview" width="850">
@@ -10,7 +10,7 @@
   <a href="https://your-demo.vercel.app">
     <img src="https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge" alt="Live Demo">
   </a>
-  <a href="https://github.com/deaneeth/Smart-Beehive-Monitor-System">
+  <a href="https://github.com/deaneeth/smart-beehive-monitor">
     <img src="https://img.shields.io/badge/hardware-repository-blue?style=for-the-badge" alt="Hardware Repo">
   </a>
   </p>
@@ -41,14 +41,14 @@
 - Node.js (v14 or higher)
 - npm or yarn
 - Firebase account
-- [Smart Beehive Hardware](https://github.com/deaneeth/Smart-Beehive-Monitor-System) (optional for demo)
+- [Smart Beehive Hardware](https://github.com/deaneeth/smart-beehive-monitor) (optional for demo)
 
 ### 📦 Installation
 
 1. **Clone the repository**
 ```
-git clone https://github.com/deaneeth/Smart-Beehive-Monitor-System-Dashboard
-cd Smart-Beehive-Monitor-System-Dashboard
+git clone https://github.com/deaneeth/smart-beehive-dashboard
+cd smart-beehive-dashboard
 ```
 
 2. **Install dependencies**
@@ -88,7 +88,7 @@ This dashboard is designed to work seamlessly with the Smart Beehive Monitoring 
 - Solar-powered operation
 - Real-time data transmission via Firebase
 
-For detailed setup instructions, see [DASHBOARD-PREVIEW.md](https://github.com/deaneeth/Smart-Beehive-Monitor-System-Dashboard/blob/main/DASHBOARD-PREVIEW.md)
+For detailed setup instructions, see [DASHBOARD-PREVIEW.md](https://github.com/deaneeth/smart-beehive-dashboard/blob/main/DASHBOARD-PREVIEW.md)
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
